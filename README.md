@@ -1,5 +1,5 @@
 # Blockchain_and_python
-Making Python interact with Blockchain
+Making Python interact with Blockchain. Generated a few wallets and private keys and attempted to send transactions with those generated wallets
 
 ## Modules used
 These modules were installed in order to do this project.
